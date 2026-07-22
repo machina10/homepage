@@ -67,7 +67,7 @@ body {
   }
 }
 
-Contact info styles
+
 
 .contact-info__header,
 .contact-info__sub-header {
@@ -132,7 +132,7 @@ Contact info styles
   border-color: var(--text-decoration-color);
 }
 
-Intro and skills styles
+
 
 .intro {
   display: flex;
@@ -171,7 +171,6 @@ Intro and skills styles
   text-align: justify;
 }
 
-Experience and additional info styles
 
 .experiences {
   flex: 1 1 60%;
